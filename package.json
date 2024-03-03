@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_json_server",
+  "version": "0.0.1",
+  "description": "pequeño servidor",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Enzodb",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Carlos",
+      "apellido": "Bustamante",
+      "materias": [
+        {
+          "nombre": "node JS"
+        },
+        {
+          "nombre": "react"
+        },
+        {
+          "nombre": "Tyscript"
+        }
+      ],
+      "id": "9f21"
+    },
+    {
+      "id": "5aba",
+      "nombre": "Alfonsina",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "Tyscript"
+        },
+        {
+          "nombre": "Angular"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": "8.2",
+      "id": "c01c"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Atres",
+      "promedio": "10",
+      "id": "eab3"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde cero",
+      "duracion": "7",
+      "dificultad": "intermedia",
+      "id": "dd32"
+    },
+    {
+      "nombre": "Tyscript desde cero",
+      "duracion": "2",
+      "dificultad": "fácil",
+      "id": "83ef"
+    },
+    {
+      "nombre": "JS desde cero",
+      "duracion": "8",
+      "dificultad": "hard",
+      "id": "fecf"
+    }
+  ]
+}
